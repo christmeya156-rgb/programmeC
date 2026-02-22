@@ -1,3 +1,5 @@
+#include "Operation.h"
+
 int main(void){
     
 /* Entrées utilisateurs*/
